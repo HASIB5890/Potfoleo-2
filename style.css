@@ -1,0 +1,148 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.navbar-brand{
+    font-size: 30px;
+    color: white;
+    font-family: 'Quintessential', cursive;
+}
+.navbar-brand:hover{
+    font-size: 30px;
+    color: white;
+    font-family: 'Quintessential', cursive; 
+}
+.nav-link{
+margin-left: 30px;
+color: white;
+font-size: 18px;
+margin-top: 20px;
+}
+.nav-link:hover{
+color: red;
+background-color: beige;
+border-radius: 10px;
+}
+/*section opan*/
+.section{
+    background-color: black;
+}
+
+.hasib-4{
+    text-align: center;
+    margin-top: 40px;
+    height: 520px;
+    max-width: 320px;
+    margin-left: 120px;
+}
+.group{
+   
+  
+    font-size: 20px;
+color: antiquewhite;
+
+}
+.group a{
+  
+    color: aliceblue;
+}
+.md{
+   
+    font-family: 'Quintessential', cursive;
+    margin-top: 150px;
+    color: white;
+}
+.sss{
+   
+  color:wheat ;
+  border: 2px dotted white;
+  width: 250px;
+}
+/*about start*/
+.about{
+    text-align:justify ;
+   margin-top: 20px;
+}
+.about-bio{
+    font-family: 'Quintessential', cursive;
+    text-align: center;
+    text-decoration: underline;
+
+}
+.about-bio::first-letter{
+    color: red;
+}
+.about-img{
+text-align: center;
+    height: 500px;
+width: 400px;
+}
+.md-about{
+    margin-top: 10px;
+    text-align: center;
+    font-family: 'Quintessential', cursive;
+
+}
+.md-about::first-line{
+    letter-spacing: 5px;
+    color: red;
+}
+.lor::first-letter{
+    font-family: 'Quintessential', cursive;
+
+    color: red;
+    font-size: 30px;
+}
+/*skill opan*/
+.sk{
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Quintessential', cursive;
+
+}
+.sk::first-letter{
+    color: brown;
+    font-size:50px ;
+}
+.skill-hh{
+ border: 2px solid white;
+ width: 150px;
+ transform: rotate(90deg);
+ position: absolute;
+ margin-top: 160px;
+ 
+}
+.html{
+    font-family: 'Quintessential', cursive;
+
+    margin-left: 120px;
+    font-size: 40px;
+}
+.html::first-line{
+    color: red;
+}
+.logo1{
+    margin-left: 60px;
+    font-size: 40px;
+    position: absolute;
+  margin-top: 53px;
+}
+.ht{
+    margin-left: 100px;
+    max-width: 250px;
+}
+.feather1{
+    background-color: black;
+opacity: .6;
+    display: inline-block;
+    padding: 20px;
+    border-radius: 10px;
+    float: left;
+}
+.feather2{
+float: left;
+}
+
+
+/*exprement opan*/
