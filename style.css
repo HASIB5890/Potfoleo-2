@@ -146,3 +146,37 @@ float: left;
 
 
 /*exprement opan*/
+.ex-{
+    font-family: 'Quintessential', cursive;
+
+display: flex;
+justify-content: center;
+    color: black;
+}
+.ex-para{
+    color: black;
+}
+/*potfoleo start*/
+.pot{
+    font-family: 'Quintessential', cursive;
+
+    text-align: center;
+    color: black;
+}
+.traval{
+    height: 420px;
+    width: 350px;
+}
+.tra{
+    font-family: 'Quintessential', cursive;
+
+    color: black;
+}
+.traval{
+    text-align: center;
+    font-family: 'Quintessential', cursive;
+
+}
+.gi{
+    color: black;
+}
