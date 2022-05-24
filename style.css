@@ -57,6 +57,25 @@ color: antiquewhite;
     margin-top: 150px;
     color: white;
 }
+
+@media screen and (max-width:800px){
+    .md{
+text-align: center;
+    }
+    .group{
+        text-align: center;
+    }
+    .sss{
+margin-left: 120px;
+      }
+.link-group{
+    text-align: center;
+}
+.feather1{
+    margin-left: 80px;
+}
+}
+
 .sss{
    
   color:wheat ;
