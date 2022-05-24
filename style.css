@@ -19,6 +19,10 @@ color: white;
 font-size: 18px;
 margin-top: 20px;
 }
+span{
+    color: aqua;
+    font-size: 35px;
+}
 .nav-link:hover{
 color: red;
 background-color: beige;
@@ -179,4 +183,31 @@ justify-content: center;
 }
 .gi{
     color: black;
+}
+/* contack opan*/
+
+.con{
+    margin-top: 40px;
+    color: black;
+    text-align: center;
+    font-family: 'Quintessential', cursive;
+
+
+}
+.con-feather{
+    color: black;
+    font-family: 'Quintessential', cursive;
+text-align: center;
+}
+.icon-f i{
+    cursor: pointer;
+    color: black;
+    font-size: 20px;
+    float: left;
+    margin-top: 20px;
+}
+.num-con{
+    color: blue;
+    margin-left: 20px;
+    font-size: 20px;
 }

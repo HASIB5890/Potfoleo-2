@@ -1,4 +1,6 @@
-function home(){
-    var y=document.querySelector("#ta")
-    document.querySelector("#para").textContent=[y]
-}
+let usa= new Typed(".cod",{
+    strings : ["WEb-Davolapar","Student","WOnar"],
+    typeSpeed:150,
+    backSpeed:150,
+    loop:true
+})
